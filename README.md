@@ -1,2 +1,3 @@
 # clean-ds
-Wordpress theme
+DEMO: 
+https://www.free-css.com/assets/files/free-css-templates/preview/page212/clean/
