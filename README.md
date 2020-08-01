@@ -1,0 +1,2 @@
+# clean-ds
+Wordpress theme
